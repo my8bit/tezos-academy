@@ -131,7 +131,7 @@ export const HomeView = () => {
           </div>
           <div>
             <p>About the devs</p>
-            <a href="https://www.linkedin.com/in/aymeric-bethencourt-96665046/" target="_blank">
+            <a href="https://www.linkedin.com/in/aymeric-bethencourt/" target="_blank">
               Aymeric Bethencourt
             </a>
             <a href="https://www.linkedin.com/in/frank-hillard-300b6b106/" target="_blank">
